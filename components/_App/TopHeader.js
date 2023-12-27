@@ -10,7 +10,7 @@ const TopHeader = () => {
                             <li>
                                 <a href="mailto:hello@pisa.com">
                                     <i className="bx bx-envelope"></i>
-                                    Email: hello@pisa.com
+                                    Email: info[at]nexaya.com
                                 </a>
                             </li>
 
@@ -37,11 +37,6 @@ const TopHeader = () => {
                             <li>
                                 <a href="#" target="_blank">
                                     <i className="bx bxl-linkedin"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i className="bx bxl-instagram"></i>
                                 </a>
                             </li>
                         </ul>
