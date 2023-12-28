@@ -15,8 +15,8 @@ const Features = () => {
 
                 <div className="col-lg-4 col-sm-6">
                     <div className="single-features">
-                        <h3><i className="bx bx-lock"></i> Privacy</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                        <h3><i className="bx bx-lock"></i>People-Centric Innovation</h3>
+                        <p>At nexaya, innovation is rooted in people. We prioritize human-centric values, offering not only cutting-edge solutions but also personalized partnerships. This commitment ensures our clients are well-equipped for the future.</p>
                         <span className="bx bx-lock"></span>
                     </div>
                 </div>
