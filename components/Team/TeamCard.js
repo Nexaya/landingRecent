@@ -14,7 +14,7 @@ const TeamCard = () => {
                     <div className="col-lg-3 col-sm-6">
                         <div className="single-team">
                             <div className="image">
-                                <img src="/img/team/team1.jpg" alt="image" />
+                                <img src="/img/team/img_profile_Faissal.jpg" alt="image" />
     
                                 <ul className="social">
                                     <li>
@@ -41,7 +41,7 @@ const TeamCard = () => {
                             </div>
     
                             <div className="content">
-                                <h3>Peter Pers</h3>
+                                <h3>Faissal Lachhab</h3>
                                 <span>Director</span>
                             </div>
                         </div>
