@@ -27,7 +27,7 @@ const MainBanner = () => {
                         <div className="col-lg-9">
                             <div className="banner-text">
                                 <span>All Research up to Blockchain Interoperability is completed</span>
-                                <h1>Modern Information Protect from Hackers</h1>
+                                <h1>Enhancing your Business through innovative Technology</h1>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil architecto laborum eaque! Deserunt maxime, minus quas molestiae reiciendis esse natus nisi iure.</p>
 
                                 <div className="banner-btn">
