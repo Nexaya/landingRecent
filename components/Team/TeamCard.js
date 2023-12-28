@@ -42,7 +42,7 @@ const TeamCard = () => {
     
                             <div className="content">
                                 <h3>Faissal Lachhab</h3>
-                                <span>Director</span>
+                                <span>Head of Engineering & Innovation</span>
                             </div>
                         </div>
                     </div>
