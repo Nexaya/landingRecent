@@ -20,17 +20,17 @@ const SecurityApproach = () => {
 								<li>
 									<i className="flaticon-cyber"></i>
 									<h3>nexaya, your Technology Partner</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut suspendisse ultrices</p>
+									<p>From the improvement of internal processes to the commitment to innovation</p>
 								</li>
 								<li>
 									<i className="flaticon-cyber-security"></i>
 									<h3>nexaya, your technical Co-Founder</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut suspendisse ultrices</p>
+									<p>Building and managing your venture in all technological aspects to ensure the realisation of your business objectives </p>
 								</li>
 								<li>
 									<i className="flaticon-profile"></i>
 									<h3>nexaya, your Technical Investment Advisor</h3>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut suspendisse ultrices</p>
+									<p>Supporting Business Angels and VC companies to assess their Tech investments for a better investment decisions</p>
 								</li>
 							</ul>
 						</div>
