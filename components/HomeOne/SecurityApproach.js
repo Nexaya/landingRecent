@@ -13,23 +13,23 @@ const SecurityApproach = () => {
 
 					<div className="col-lg-6">
 						<div className="approach-content">
-							<h2>Our Approach To Security</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsumv</p>
+							<h2>At nexaya we can be your strong partner</h2>
+							<p>Wether you are a startup, an enterprise, a Business Angel or VC, togethe we can establish a tailored partnership to support you with added value for your business and your portfolios. </p>
 
 							<ul>
 								<li>
 									<i className="flaticon-cyber"></i>
-									<h3>Secure by Design</h3>
+									<h3>nexaya, your Technology Partner</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut suspendisse ultrices</p>
 								</li>
 								<li>
 									<i className="flaticon-cyber-security"></i>
-									<h3>Compliant by Design</h3>
+									<h3>nexaya, your technical Co-Founder</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut suspendisse ultrices</p>
 								</li>
 								<li>
 									<i className="flaticon-profile"></i>
-									<h3>Continuous Monitoring</h3>
+									<h3>nexaya, your Technical Investment Advisor</h3>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut suspendisse ultrices</p>
 								</li>
 							</ul>
