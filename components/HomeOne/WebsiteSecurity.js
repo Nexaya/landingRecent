@@ -5,8 +5,8 @@ const WebsiteSecurity = () => {
         <section className="security-area pb-70">
 			<div className="container">
 				<div className="section-title">
-					<h2>Complete Website Security</h2>
-					<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus quam neque quibusdam corrupti aspernatur corporis alias nisi dolorum expedita veritatis voluptates minima sapiente.</p>
+					<h2>Our Technology Revolution Journey</h2>
+					<p>At nexaya, we know that technology's true power lies in empowering people. That's why we've built the best team - with expertise from across the world - to directly serve our clients through a human-to-human approach. Our goal is to revolutionize technology in Africa by bringing together top global resources and adapting them to the unique African market.</p>
 				</div>
 
 				<div className="row">
