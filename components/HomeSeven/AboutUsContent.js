@@ -18,7 +18,7 @@ const AboutUsContent = () => {
 
             <div className="col-lg-6 col-md-12">
               <div className="safer-world-content">
-                <h3>We create a safer Virtual World For Your future</h3>
+                <h3>Digital Solutions require an individual approach</h3>
                 <p>
                   nexaya supports and develops market-leading businesses and startup companies in various industries. 
                   With our global team, we offer international knowledge and local insights to provide hands-on help for 
