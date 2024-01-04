@@ -27,9 +27,11 @@ class ServicesTab extends Component {
 			<section className="services-area overflow-hidden ptb-100">
 				<div className="container">
                     <div className="section-title-six">
-                        <span>Our Services</span>
+                        <span>nexaya Services</span>
                         <h2>We Offer Best Cyber Security Solutions</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>We work with all types of businesses and budgets. We love to work on exciting and challenging topics, 
+                 	and we have a passion for delivering high-quality products, services, and solutions, whether they are for SMBs or startups. 
+                                                                                     Let’s do some amazing projects together!</p>
                     </div>
 
                     <div className="tab services-tab">
