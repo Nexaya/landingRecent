@@ -20,10 +20,10 @@ const AboutUsContent = () => {
               <div className="safer-world-content">
                 <h3>Digital Solutions require an individual approach</h3>
                 <p>
-                  nexaya supports and develops market-leading businesses and startup companies in various industries. 
-                  We work with all types of businesses and budgets. We love to work on exciting and challenging topics, 
-                  and we have a passion for delivering high-quality products, services, and solutions, whether they are for SMBs or startups. 
-                                                                                     Let’s do some amazing projects together!
+                At nexaya, we unleash the power of technology innovation to transform businesses in 
+                consistent and efficient ways. Through our suite of customized services , including cybersecurity 
+                and resilience, software engineering, digital transformation and business advisory combined with 
+                tailored solutions for cyber security and managed services, we enable companies to reinvent themselves and unlock new levels of growth.
               </p>
 
                 <div className="row justify-content-center">
