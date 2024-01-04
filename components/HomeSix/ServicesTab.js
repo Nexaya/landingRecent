@@ -71,7 +71,7 @@ class ServicesTab extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="services-single-item">
-                                            <h3>Security Advisory</h3>
+                                            <h3>Business Advisory</h3>
 
                                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, vero corporis voluptates beatae pariatur laudantium, fugiat illum ab deserunt nostrum aliquid quisquam esse? Voluptatibus quia velit numquam esse porro ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, corporis Voluptatibus quia.</p>
                 
@@ -98,7 +98,7 @@ class ServicesTab extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="services-single-item">
-                                            <h3>Technical Assurance</h3>
+                                            <h3>Digital Transformation</h3>
 
                                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, vero corporis voluptates beatae pariatur laudantium, fugiat illum ab deserunt nostrum aliquid quisquam esse? Voluptatibus quia velit numquam esse porro ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, corporis Voluptatibus quia.</p>
                 
@@ -125,7 +125,7 @@ class ServicesTab extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="services-single-item">
-                                            <h3>Assessment Services</h3>
+                                            <h3>Cyber Security</h3>
 
                                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, vero corporis voluptates beatae pariatur laudantium, fugiat illum ab deserunt nostrum aliquid quisquam esse? Voluptatibus quia velit numquam esse porro ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, corporis Voluptatibus quia.</p>
                 
@@ -152,7 +152,7 @@ class ServicesTab extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="services-single-item">
-                                            <h3>Threat Hunter</h3>
+                                            <h3>Software Engineering</h3>
 
                                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, vero corporis voluptates beatae pariatur laudantium, fugiat illum ab deserunt nostrum aliquid quisquam esse? Voluptatibus quia velit numquam esse porro ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, corporis Voluptatibus quia.</p>
                 
@@ -179,7 +179,7 @@ class ServicesTab extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="services-single-item">
-                                            <h3>Splunk Services</h3>
+                                            <h3>nexaya Dynamics</h3>
 
                                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, vero corporis voluptates beatae pariatur laudantium, fugiat illum ab deserunt nostrum aliquid quisquam esse? Voluptatibus quia velit numquam esse porro ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, corporis Voluptatibus quia.</p>
                 
