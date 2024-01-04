@@ -28,7 +28,7 @@ class ServicesTab extends Component {
 				<div className="container">
                     <div className="section-title-six">
                         <span>nexaya Services</span>
-                        <h2>We Offer Best Cyber Security Solutions</h2>
+                        <h2>Delivering high-quality services and solutions</h2>
                         <p>We work with all types of businesses and budgets. We love to work on exciting and challenging topics, 
                  	and we have a passion for delivering high-quality products, services, and solutions, whether they are for SMBs or startups. 
                                                                                      Let’s do some amazing projects together!</p>
