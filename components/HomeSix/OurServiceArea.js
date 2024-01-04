@@ -5,16 +5,17 @@ const OurServiceArea = () => {
         <div className="our-serve-area bg-color-f9f9f9 pt-100 pb-70">
 			<div className="container">
 				<div className="section-title-six">
-					<span>Our Service area</span>
+					<span>Our playground</span>
 					<h2>Industry Expertise</h2>
-					<p>Lorem ipsum dolor sit amet, conseactetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+					<p>Drawing on our expertise in digital transformation (DX), cybersecurity, and our unique Nexaya Dynamics Program, 
+	    				we are well-positioned to serve the following industries</p>
 				</div>
 
 				<div className="row">
 					<div className="col-lg-4 col-md-6">
 						<div className="single-serve">
 							<i className="bx bxs-bank"></i>
-							<h3>Banking</h3>
+							<h3>Banking & FinTech</h3>
 							<p>Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse</p>
 						</div>
 					</div>
@@ -22,7 +23,7 @@ const OurServiceArea = () => {
 					<div className="col-lg-4 col-md-6">
 						<div className="single-serve">
 							<i className="bx bx-cog"></i>
-							<h3>Manufacturing</h3>
+							<h3>Tech Startups</h3>
 							<p>Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse</p>
 						</div>
 					</div>
