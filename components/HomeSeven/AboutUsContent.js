@@ -21,9 +21,10 @@ const AboutUsContent = () => {
                 <h3>Digital Solutions require an individual approach</h3>
                 <p>
                   nexaya supports and develops market-leading businesses and startup companies in various industries. 
-                  With our global team, we offer international knowledge and local insights to provide hands-on help for 
-                  strong growth, with an emphasis on digital transformation, cyber security, and technology strategy.
-                </p>
+                  We work with all types of businesses and budgets. We love to work on exciting and challenging topics, 
+                  and we have a passion for delivering high-quality products, services, and solutions, whether they are for SMBs or startups. 
+                                                                                     Let’s do some amazing projects together!
+              </p>
 
                 <div className="row justify-content-center">
                   <div className="col-lg-6 col-md-6">
