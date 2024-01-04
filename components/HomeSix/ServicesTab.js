@@ -193,11 +193,11 @@ class ServicesTab extends Component {
 
                                             <p>Nexaya Dynamics is our innovation and creativity program. It's a place where we unleash all your ideas, 
 					       visions, and imaginations. Working collaboratively with our Dynamics team, we co-create and reinvent. 
-						Startups gain access to our in-house experts and an extensive network of partners, industry, and market experts spanning Europe and Africa. 
+						Startups gain access to our in-house experts and an extensive network of partners, industry, and market experts spanning Europe and Africa.</p> 
 						
                                             <p>We offer support across various areas, from go-to-market strategies 
 						to AI and Blockchain technologies, backed by deep tech expertise. Moreover, we can serve as a technical co-founder, 
-						actively guiding a company from inception to late-stage financing in exchange for a negotiable stake</p></p>
+						actively guiding a company from inception to late-stage financing in exchange for a negotiable stake</p>
                                             
                                             <Link href="/about">
                                                 <a className="default-btn six">
