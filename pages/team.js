@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from '../components/_App/Navbar';
 import PageBanner from '../components/Common/PageBanner';
 import TeamCard from '../components/Team/TeamCard';
-import Footer from '../components/_App/Footer';
+import FooterThree from '../components/_App/FooterThree';
 
 const Team = () => {
     return (
@@ -18,7 +18,7 @@ const Team = () => {
 
             <TeamCard />
             
-            <Footer />
+            <FooterThree />
         </>
     )
 }

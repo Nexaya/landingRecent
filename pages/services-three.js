@@ -5,7 +5,7 @@ import SecurityApproach from '../components/ServicesStyleThree/SecurityApproach'
 import EffectiveProtection from '../components/ServicesStyleThree/EffectiveProtection';
 import CyberSecurityOperation from '../components/ServicesStyleThree/CyberSecurityOperation';
 import RecentProjects from '../components/Common/RecentProjects';
-import Footer from '../components/_App/Footer';
+import FooterThree from '../components/_App/FooterThree';
 
 const ServicesThree = () => {
     return (
@@ -13,10 +13,10 @@ const ServicesThree = () => {
             <Navbar />
 
             <PageBanner 
-                pageTitle="Services Style Three" 
+                pageTitle="Nexaya Services" 
                 homePageUrl="/" 
                 homePageText="Home" 
-                activePageText="Services Style Three" 
+                activePageText="Nexaya Services" 
             /> 
 
             <SecurityApproach />
@@ -27,7 +27,7 @@ const ServicesThree = () => {
 
             <RecentProjects />
             
-            <Footer />
+            <FooterThree />
         </>
     )
 }
