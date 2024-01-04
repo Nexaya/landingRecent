@@ -1,7 +1,7 @@
 import React from "react";
 import { useRecoilState } from "recoil";
 import { collapsedState } from "../../utils/recoil-atoms";
-import Image from 'next/Image';
+import Image from 'next/image';
 import Link from "../../utils/ActiveLink";
 import TopHeader from "./TopHeader";
 
