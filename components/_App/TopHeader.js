@@ -8,9 +8,9 @@ const TopHeader = () => {
                     <div className="col-lg-6 col-sm-8">
                         <ul className="header-content-left">
                             <li>
-                                <a href="mailto:hello@pisa.com">
+                                <a href="mailto:hello@nexaya.com">
                                     <i className="bx bx-envelope"></i>
-                                    Email: info@nexaya.com
+                                    Email: hello@nexaya.com
                                 </a>
                             </li>
 
