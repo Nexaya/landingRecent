@@ -8,7 +8,8 @@ const Features = () => {
                 <div className="col-lg-4 col-sm-6">
                     <div className="single-features">
                         <h3><i className="bx bx-check-shield"></i>Global Growth Support</h3>
-                        <p>nexaya fuels the growth of businesses and startups through international expertise and local insights, emphasizing Digital Transformation, Cyber Security, and Technology Strategy for robust growth.</p>
+                        <p>nexaya fuels the growth of businesses and startups through international expertise and local insights, 
+        emphasizing Digital Transformation, Cyber Security, and Technology Strategy.</p>
                         <span className="bx bx-check-shield"></span>
                     </div>
                 </div>
