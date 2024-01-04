@@ -191,9 +191,13 @@ class ServicesTab extends Component {
                                         <div className="services-single-item">
                                             <h3>nexaya Dynamics</h3>
 
-                                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, vero corporis voluptates beatae pariatur laudantium, fugiat illum ab deserunt nostrum aliquid quisquam esse? Voluptatibus quia velit numquam esse porro ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, corporis Voluptatibus quia.</p>
-                
-                                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis, soluta, aspernatur dolorum sequi quisquam ullam in pariatur nihil dolorem cumque excepturi totam. Qui excepturi quasi cumque placeat fuga. Ea, eius nihil dolorem cumque</p>
+                                            <p>Nexaya Dynamics is our innovation and creativity program. It's a place where we unleash all your ideas, 
+					       visions, and imaginations. Working collaboratively with our Dynamics team, we co-create and reinvent. 
+						Startups gain access to our in-house experts and an extensive network of partners, industry, and market experts spanning Europe and Africa. 
+						
+                                            <p>We offer support across various areas, from go-to-market strategies 
+						to AI and Blockchain technologies, backed by deep tech expertise. Moreover, we can serve as a technical co-founder, 
+						actively guiding a company from inception to late-stage financing in exchange for a negotiable stake</p></p>
                                             
                                             <Link href="/about">
                                                 <a className="default-btn six">
