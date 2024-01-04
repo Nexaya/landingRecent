@@ -20,9 +20,9 @@ const AboutUsContent = () => {
               <div className="safer-world-content">
                 <h3>We create a safer Virtual World For Your future</h3>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipiscing elit.
-                  Adipiscing eleifend dictum potenti mattis viverra. Eget quam
-                  lacus enim porttitor bibendum elit dui nisl.
+                  nexaya supports and develops market-leading businesses and startup companies in various industries. 
+                  With our global team, we offer international knowledge and local insights to provide hands-on help for 
+                  strong growth, with an emphasis on digital transformation, cyber security, and technology strategy.
                 </p>
 
                 <div className="row justify-content-center">
