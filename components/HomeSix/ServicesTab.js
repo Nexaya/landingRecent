@@ -105,9 +105,14 @@ class ServicesTab extends Component {
                                         <div className="services-single-item">
                                             <h3>Digital Transformation</h3>
 
-                                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, vero corporis voluptates beatae pariatur laudantium, fugiat illum ab deserunt nostrum aliquid quisquam esse? Voluptatibus quia velit numquam esse porro ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, corporis Voluptatibus quia.</p>
+                                            <p>Technology transforms how your organization interacts with customers and employees in amazing new ways. 
+							    Whether the future tuns out uncertain or prosperous, one thing is certain: you need to make 
+							    your organization more resilient to disruption as well as prepare it to capitalize on the next phase of growth. </p>
                 
-                                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis, soluta, aspernatur dolorum sequi quisquam ullam in pariatur nihil dolorem cumque excepturi totam. Qui excepturi quasi cumque placeat fuga. Ea, eius nihil dolorem cumque</p>
+                                            <p>Digital transformation is no longer an option for today’s businesses. By 2022, 70% of all organizations will have accelerated the use 
+					    of their digital technologies, transforming their existing processes to drive customer engagement, employee productivity, and business resiliency.
+					    But 70% of digital transformations will also fall short of their objectives, often with profound consequences.
+					</p>
                                             
                                             <Link href="/about">
                                                 <a className="default-btn six">
