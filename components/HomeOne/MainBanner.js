@@ -28,9 +28,7 @@ const MainBanner = () => {
               <div className="banner-text">
                 <h1>Enhancing your Business through innovative Technology</h1>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil
-                  architecto laborum eaque! Deserunt maxime, minus quas
-                  molestiae reiciendis esse natus nisi iure.
+                  Delivering high-quality products, services, and solutions for your digital transformation journey!
                 </p>
               </div>
             </div>
