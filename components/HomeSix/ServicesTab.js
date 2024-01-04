@@ -41,27 +41,27 @@ class ServicesTab extends Component {
                                 className="current"
                                 onClick={(e) => this.openTabSection(e, 'tab1')}
                             >
-                                Security Advisory
+                                Business Advisory
                             </li>
                             <li
                                 onClick={(e) => this.openTabSection(e, 'tab2')}
                             >
-                                Technical Assurance
+                                Digital Transformation
                             </li>
                             <li
                                 onClick={(e) => this.openTabSection(e, 'tab3')}
                             >
-                                Assessment Services
+                                Cyber Security
                             </li>
                             <li
                                 onClick={(e) => this.openTabSection(e, 'tab4')}
                             >
-                                Threat Hunter
+                                Software Engineering
                             </li>
                             <li
                                 onClick={(e) => this.openTabSection(e, 'tab5')}
                             >
-                                Splunk Services
+                                nexaya Dynamics
                             </li>
                         </ul>
 
