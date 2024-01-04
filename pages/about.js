@@ -6,7 +6,7 @@ import ElectronicProtection from '../components/HomeOne/ElectronicProtection';
 import SecurityApproach from '../components/HomeOne/SecurityApproach';
 import Testimonials from '../components/Common/Testimonials';
 import Partner from '../components/Common/Partner';
-import Footer from '../components/_App/Footer';
+import FooterThree from '../components/_App/FooterThree';
 
 const About = () => {
     return (
@@ -31,8 +31,7 @@ const About = () => {
             <Testimonials />
 
             <Partner />
-            
-            <Footer />
+            <FooterThree />
         </>
     )
 }

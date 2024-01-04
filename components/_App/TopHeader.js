@@ -10,13 +10,13 @@ const TopHeader = () => {
                             <li>
                                 <a href="mailto:hello@pisa.com">
                                     <i className="bx bx-envelope"></i>
-                                    Email: info[at]nexaya.com
+                                    Email: info@nexaya.com
                                 </a>
                             </li>
 
                             <li>
                                 <i className="bx bx-location-plus"></i>
-                                658 Lane Drive St. California
+                                Frankfurt Germany
                             </li>
                         </ul>
                     </div>

@@ -1,9 +1,9 @@
 import React from 'react';
 import Navbar from '../components/_App/Navbar';
 import PageBanner from '../components/Common/PageBanner';
-import ContactInfo from '../components/Contact/ContactInfo';
-import ContactForm from '../components/Contact/ContactForm';
-import Footer from '../components/_App/Footer';
+import FaqStyleOne from '../components/Common/FaqStyleOne';
+import FaqForm from '../components/Faq/FaqForm';
+import FooterThree from '../components/_App/FooterThree';
 
 const Contact = () => {
     return (
@@ -11,17 +11,17 @@ const Contact = () => {
             <Navbar />
 
             <PageBanner 
-                pageTitle="Contact" 
+                pageTitle="Contact Us" 
                 homePageUrl="/" 
                 homePageText="Home" 
-                activePageText="Contact" 
+                activePageText="Contact Us" 
             /> 
 
-            <ContactInfo />
+            <FaqStyleOne />
 
-            <ContactForm />
+            <FaqForm />
             
-            <Footer />
+            <FooterThree />
         </>
     )
 }

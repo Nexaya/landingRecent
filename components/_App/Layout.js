@@ -10,7 +10,7 @@ const Layout = ({ children }) => {
                 <meta charSet="utf-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
  
-                <title>Pisa - Cyber Security Services Company React Next Template</title>
+                <title>Nexaya - Cyber Security And Digital Transformation Services</title>
             </Head>
 
             {children}

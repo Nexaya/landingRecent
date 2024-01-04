@@ -8,7 +8,6 @@ const LetsTalkArea = () => {
 				<div className="lats-talk-content">
 					<h2>Ready to get started? we're here to help</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
                     <Link href="/contact">
                         <a className="default-btn six">
                             <i className="bx bx-file"></i>
