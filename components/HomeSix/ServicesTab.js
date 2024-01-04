@@ -73,9 +73,14 @@ class ServicesTab extends Component {
                                         <div className="services-single-item">
                                             <h3>Business Advisory</h3>
 
-                                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, vero corporis voluptates beatae pariatur laudantium, fugiat illum ab deserunt nostrum aliquid quisquam esse? Voluptatibus quia velit numquam esse porro ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, corporis Voluptatibus quia.</p>
+                                            <p>Align IT strategy with your business objectives and maintain your competitive advantage.
+						Nearly every business today relies on IT. In some cases, you could go as far as to say 
+						that IT no longer simply supports the business, but is the business. It is essential, 
+						indispensable, and inextricably linked to successful business outcomes. These well-aligned 
+						businesses feel dynamic and one step ahead. If that’s something that aligns with your vision, then we’re to help.
+					</p>
                 
-                                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis, soluta, aspernatur dolorum sequi quisquam ullam in pariatur nihil dolorem cumque excepturi totam. Qui excepturi quasi cumque placeat fuga. Ea, eius nihil dolorem cumque</p>
+                                            <p>Outsource executive strategic roles to focus on your business! </p>
                                             
                                             <Link href="/about">
                                                 <a className="default-btn six">
