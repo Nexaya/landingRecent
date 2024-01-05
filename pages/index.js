@@ -7,8 +7,7 @@ import ServicesTab from "../components/HomeSix/ServicesTab";
 import OurServiceArea from "../components/HomeSix/OurServiceArea";
 import WhyChooseUs from "../components/HomeSix/WhyChooseUs";
 import LetsTalkArea from "../components/Common/LetsTalkArea";
-import OperationCenter from "../components/HomeSeven/OperationCenter";
-import TeamCard from "../components/Team/TeamCard";
+import Team from '../components/HomeSeven/Team';
 const Index = () => {
   return (
     <>
@@ -20,8 +19,7 @@ const Index = () => {
       <OurServiceArea />
       <WhyChooseUs />
       <LetsTalkArea />
-      <OperationCenter />
-      <TeamCard />
+      <Team />
       <FooterThree />
     </>
   );

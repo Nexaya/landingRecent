@@ -3590,7 +3590,7 @@ Coming Soon Area Style
 }
 
 .coming-soon-area .coming-soon-content .newsletter-form .input-newsletter:focus {
-  border-color: #d80650;
+  border-color: #33971F;
 }
 
 .coming-soon-area .coming-soon-content .newsletter-form button {
@@ -10712,7 +10712,7 @@ Footer Style Two Area CSS
   text-align: center;
   position: relative;
   color: #ffffff;
-  background: linear-gradient(136.1deg, #D80650 1.84%, #FE5D68 100%);
+  background: linear-gradient(136.1deg, #33971F 1.84%, #33971F 100%);
 }
 
 .single-footer-widget-card .social-links li a i {
@@ -10853,7 +10853,7 @@ Footer Style Two Area CSS
   border: none;
   margin-top: 10px;
   width: 100%;
-  background: linear-gradient(136.1deg, #D80650 1.84%, #FE5D68 100%);
+  background: linear-gradient(136.1deg, #33971F 1.84%, #33971F 100%);
   border-radius: 5px;
 }
 
@@ -10896,7 +10896,7 @@ Footer Style Two Area CSS
 }
 
 .copyright-style-two-with-color p a {
-  color: #d80650;
+  color: #33971F;
   font-weight: 500;
 }
 

@@ -155,6 +155,7 @@ const FooterThree = () => {
               <div className="line"></div>
             </div>
           </div>
+		  #33971F
         </div>
       </footer>
     </>
