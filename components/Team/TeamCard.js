@@ -6,11 +6,11 @@ const TeamCard = () => {
     <section className="team-area ptb-100">
       <div className="container">
         <div className="section-title">
-          <h2>Our Expert Team</h2>
+          <h2The Faces of nexaya</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incidiunt labore et dolore magna aliqua. Quis ipsum
-            suspendisse ultrices gravida.
+            Here we are, a bunch of crazy and very smart people and tech enthusiasts. Lots of experienced entrepreneurs, 
+            tech geeks and creative minds. Distributed across 2 continents and based in one of our four Hubs. we all ennjoy
+            what we do and working with our clients to bring the most exciting projects to life. We are rowing, and we look forward to our new additions
           </p>
         </div>
 

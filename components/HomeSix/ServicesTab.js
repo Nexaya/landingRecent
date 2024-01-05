@@ -27,9 +27,11 @@ class ServicesTab extends Component {
 			<section className="services-area overflow-hidden ptb-100">
 				<div className="container">
                     <div className="section-title-six">
-                        <span>Our Services</span>
-                        <h2>We Offer Best Cyber Security Solutions</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <span>nexaya Services</span>
+                        <h2>Delivering high-quality services and solutions</h2>
+                        <p>We work with all types of businesses and budgets. We love to work on exciting and challenging topics, 
+                 	and we have a passion for delivering high-quality products, services, and solutions, whether they are for SMBs or startups. 
+                                                                                     <br><b>Let’s do some amazing projects together!</b></p>
                     </div>
 
                     <div className="tab services-tab">
@@ -39,27 +41,27 @@ class ServicesTab extends Component {
                                 className="current"
                                 onClick={(e) => this.openTabSection(e, 'tab1')}
                             >
-                                Security Advisory
+                                Business Advisory
                             </li>
                             <li
                                 onClick={(e) => this.openTabSection(e, 'tab2')}
                             >
-                                Technical Assurance
+                                Digital Transformation
                             </li>
                             <li
                                 onClick={(e) => this.openTabSection(e, 'tab3')}
                             >
-                                Assessment Services
+                                Cyber Security
                             </li>
                             <li
                                 onClick={(e) => this.openTabSection(e, 'tab4')}
                             >
-                                Threat Hunter
+                                Software Engineering
                             </li>
                             <li
                                 onClick={(e) => this.openTabSection(e, 'tab5')}
                             >
-                                Splunk Services
+                                nexaya Dynamics
                             </li>
                         </ul>
 
@@ -69,11 +71,16 @@ class ServicesTab extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="services-single-item">
-                                            <h3>Security Advisory</h3>
+                                            <h3>Business Advisory</h3>
 
-                                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, vero corporis voluptates beatae pariatur laudantium, fugiat illum ab deserunt nostrum aliquid quisquam esse? Voluptatibus quia velit numquam esse porro ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, corporis Voluptatibus quia.</p>
+                                            <p>Align IT strategy with your business objectives and maintain your competitive advantage.
+						Nearly every business today relies on IT. In some cases, you could go as far as to say 
+						that IT no longer simply supports the business, but is the business. It is essential, 
+						indispensable, and inextricably linked to successful business outcomes. These well-aligned 
+						businesses feel dynamic and one step ahead. If that’s something that aligns with your vision, then we’re to help.
+					</p>
                 
-                                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis, soluta, aspernatur dolorum sequi quisquam ullam in pariatur nihil dolorem cumque excepturi totam. Qui excepturi quasi cumque placeat fuga. Ea, eius nihil dolorem cumque</p>
+                                            <p>Outsource executive strategic roles to focus on your business! </p>
                                             
                                             <Link href="/about">
                                                 <a className="default-btn six">
@@ -96,11 +103,16 @@ class ServicesTab extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="services-single-item">
-                                            <h3>Technical Assurance</h3>
+                                            <h3>Digital Transformation</h3>
 
-                                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, vero corporis voluptates beatae pariatur laudantium, fugiat illum ab deserunt nostrum aliquid quisquam esse? Voluptatibus quia velit numquam esse porro ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, corporis Voluptatibus quia.</p>
+                                            <p>Technology transforms how your organization interacts with customers and employees in amazing new ways. 
+							    Whether the future tuns out uncertain or prosperous, one thing is certain: you need to make 
+							    your organization more resilient to disruption as well as prepare it to capitalize on the next phase of growth. </p>
                 
-                                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis, soluta, aspernatur dolorum sequi quisquam ullam in pariatur nihil dolorem cumque excepturi totam. Qui excepturi quasi cumque placeat fuga. Ea, eius nihil dolorem cumque</p>
+                                            <p>Digital transformation is no longer an option for today’s businesses. By 2022, 70% of all organizations will have accelerated the use 
+					    of their digital technologies, transforming their existing processes to drive customer engagement, employee productivity, and business resiliency.
+					    But 70% of digital transformations will also fall short of their objectives, often with profound consequences.
+					</p>
                                             
                                             <Link href="/about">
                                                 <a className="default-btn six">
@@ -123,7 +135,7 @@ class ServicesTab extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="services-single-item">
-                                            <h3>Assessment Services</h3>
+                                            <h3>Cyber Security</h3>
 
                                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, vero corporis voluptates beatae pariatur laudantium, fugiat illum ab deserunt nostrum aliquid quisquam esse? Voluptatibus quia velit numquam esse porro ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, corporis Voluptatibus quia.</p>
                 
@@ -150,7 +162,7 @@ class ServicesTab extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="services-single-item">
-                                            <h3>Threat Hunter</h3>
+                                            <h3>Software Engineering</h3>
 
                                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, vero corporis voluptates beatae pariatur laudantium, fugiat illum ab deserunt nostrum aliquid quisquam esse? Voluptatibus quia velit numquam esse porro ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, corporis Voluptatibus quia.</p>
                 
@@ -177,11 +189,15 @@ class ServicesTab extends Component {
                                 <div className="row align-items-center">
                                     <div className="col-lg-6">
                                         <div className="services-single-item">
-                                            <h3>Splunk Services</h3>
+                                            <h3>nexaya Dynamics</h3>
 
-                                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, vero corporis voluptates beatae pariatur laudantium, fugiat illum ab deserunt nostrum aliquid quisquam esse? Voluptatibus quia velit numquam esse porro ipsum dolor, sit amet consectetur adipisicing elit. Illo ducimus vero, corporis Voluptatibus quia.</p>
-                
-                                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis, soluta, aspernatur dolorum sequi quisquam ullam in pariatur nihil dolorem cumque excepturi totam. Qui excepturi quasi cumque placeat fuga. Ea, eius nihil dolorem cumque</p>
+                                            <p>Nexaya Dynamics is our innovation and creativity program. It's a place where we unleash all your ideas, 
+					       visions, and imaginations. Working collaboratively with our Dynamics team, we co-create and reinvent. 
+						Startups gain access to our in-house experts and an extensive network of partners, industry, and market experts spanning Europe and Africa.</p> 
+						
+                                            <p>We offer support across various areas, from go-to-market strategies 
+						to AI and Blockchain technologies, backed by deep tech expertise. Moreover, we can serve as a technical co-founder, 
+						actively guiding a company from inception to late-stage financing in exchange for a negotiable stake</p>
                                             
                                             <Link href="/about">
                                                 <a className="default-btn six">
