@@ -45,9 +45,8 @@ export default class WhyChooseUs extends Component {
                             <div className="choose-us">
                               <h3>High-Quality Service</h3>
                               <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore
+                               Committed to delivering high-quality services, ensuring 
+                            clients receive top-notch solutions tailored to their specific needs and challenges.
                               </p>
                             </div>
                             <div className="shape-1">
@@ -269,23 +268,23 @@ export default class WhyChooseUs extends Component {
                       onClick={(e) => this.openTabSection(e, "wcu_tab1")}
                     >
                       <i className="bx bx-chevron-left"></i>
-                      Industry Experts
+                      High-Quality Service
                     </li>
                     <li onClick={(e) => this.openTabSection(e, "wcu_tab2")}>
                       <i className="bx bx-chevron-left"></i>
-                      Dedicated Team
+                      Global Expertise
                     </li>
                     <li onClick={(e) => this.openTabSection(e, "wcu_tab3")}>
                       <i className="bx bx-chevron-left"></i>
-                      Outcome Focused
+                      Dedicated Teams
                     </li>
                     <li onClick={(e) => this.openTabSection(e, "wcu_tab4")}>
                       <i className="bx bx-chevron-left"></i>
-                      High Quality Service
+                      Outcome-Focused
                     </li>
                     <li onClick={(e) => this.openTabSection(e, "wcu_tab5")}>
                       <i className="bx bx-chevron-left"></i>
-                      Cyber Security Expert
+                      Innovation & Technology
                     </li>
                   </ul>
                 </div>
