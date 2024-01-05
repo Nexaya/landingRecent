@@ -81,9 +81,10 @@ class ServicesTab extends Component {
                         aligns with your vision, then we’re to help.
                       </p>
 
-                      <p>
-                        Outsource executive strategic roles to focus on your
-                        business!{" "}
+                      <p className="main-biz-advisory-title">
+                          Outsource executive strategic roles to focus on your
+                          business!{" "}
+        
                       </p>
 
                       <Link href="/about">
