@@ -25,7 +25,7 @@ const AboutUsContent = () => {
                   lacus enim porttitor bibendum elit dui nisl.
                 </p>
 
-          
+      <div class="row justify-content-center"><div class="col-lg-6 col-md-6"><div class="safer-world-inner-box"><h4>Our Mission</h4><p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Adipisc ing eleifend dictum pot nti.</p></div></div><div class="col-lg-6 col-md-6"><div class="safer-world-inner-box"><h4>Our Mission</h4><p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Adipisc ing eleifend dictum pot nti.</p></div></div></div>    
 
                 <div className="safer-world-btn">
                   <Link href="/about">
