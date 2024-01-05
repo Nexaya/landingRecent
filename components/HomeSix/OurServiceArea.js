@@ -16,8 +16,8 @@ const OurServiceArea = () => {
 						<div className="single-serve">
 							<i className="bx bxs-bank"></i>
 							<h3>Banking & FinTech</h3>
-							<p>nexaya enhances efficiency and security in financial processes through optimizing digital transactions, 
-	    						and providing robust cybersecurity measures.</p>
+							<p>Improving financial processes by optimizing digital transactions and implementing strong cybersecurity 
+	    						measures.</p>
 						</div>
 					</div>
 
@@ -34,8 +34,8 @@ const OurServiceArea = () => {
 						<div className="single-serve">
 							<i className="bx bxs-vial"></i>
 							<h3>Oil and Gas</h3>
-							<p>Leveraging technology for streamlined operations, data analytics, and predictive insights 
-							to enhance decision-making and operational efficiency.</p>
+							<p>Utilizing technology for streamlined operations, data analytics, and predictive insights 
+							to increasy operational efficiency.</p>
 						</div>
 					</div>
 
@@ -43,8 +43,8 @@ const OurServiceArea = () => {
 						<div className="single-serve">
 							<i className="bx bx-check-shield"></i>
 							<h3>Insurance</h3>
-							<p>Digitizing processes, implementing AI-driven risk assessment, and improving customer interactions, 
-							leading to more accurate underwriting and enhanced customer experiences.</p>
+							<p>Digitizing processes, deploying AI-driven risk assessment, and enhancing customer 
+							interactions for accurate underwriting and improved customer experiences.</p>
 						</div>
 					</div>
 
@@ -52,8 +52,8 @@ const OurServiceArea = () => {
 						<div className="single-serve">
 							<i className="bx bx-server"></i>
 							<h3>Public Services</h3>
-							<p>Offering digital transformation solutions, optimizing processes, 
-							improving data management, and enhancing communication to create more efficient and responsive public systems</p>
+							<p>Optimizing processes, improve data management, and enhance communication for 
+							more efficiency.</p>
 						</div>
 					</div>
 
@@ -61,8 +61,8 @@ const OurServiceArea = () => {
 						<div className="single-serve">
 							<i className="bx bx-heart"></i>
 							<h3>Healthcare</h3>
-							<p>Digital transformation, facilitating communication between healthcare providers and patients, 
-							implementing predictive analytics for better diagnostics, and ensuring secure data management in compliance with healthcare regulations.</p>
+							<p>Facilitating communication, implementing predictive analytics for diagnostics, 
+							and ensuring secure, regulatory-compliant data management.</p>
 						</div>
 					</div>
 				</div>
