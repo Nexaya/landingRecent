@@ -24,8 +24,8 @@ const Footer = () => {
                                     <li>
                                         <i className="bx bx-envelope"></i>
                                         <span>Email:</span> 
-                                        <a href="mailto:hello@pisa.com">
-                                            hello@pisa.com
+                                        <a href="mailto:hello@nexaya.com">
+                                            hello@nexaya.com
                                         </a>
                                     </li>
                                     
