@@ -233,15 +233,6 @@ class ServicesTab extends Component {
                         spanning Europe and Africa.
                       </p>
 
-                      <p>
-                        We offer support across various areas, from go-to-market
-                        strategies to AI and Blockchain technologies, backed by
-                        deep tech expertise. Moreover, we can serve as a
-                        technical co-founder, actively guiding a company from
-                        inception to late-stage financing in exchange for a
-                        negotiable stake
-                      </p>
-
                       <Link href="/about">
                         <a className="default-btn six">
                           <i className="bx bx-file"></i>
