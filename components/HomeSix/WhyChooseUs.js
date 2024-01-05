@@ -220,11 +220,11 @@ export default class WhyChooseUs extends Component {
                         <div className="col-lg-6">
                           <div className="choose-us-content">
                             <div className="choose-us">
-                              <h3>Cyber Security Expert</h3>
+                              <h3>Innovation Paired with Technology & Funds</h3>
                               <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore
+                                nexaya innovates by merging leading-edge technology with strategic 
+                                innovation and financial support, ensuring startups and other businesses 
+                                access the latest advancements and resources for transformative solutions
                               </p>
                             </div>
                             <div className="shape-1">
