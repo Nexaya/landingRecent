@@ -106,6 +106,11 @@ const Navbar = () => {
                           <a className="nav-link">Portfolio</a>
                         </Link>
                       </li>
+                      <li className="nav-item">
+                        <Link href="/careers/all" activeClassName="active">
+                          <a className="nav-link">Careers</a>
+                        </Link>
+                      </li>
                     </ul>
                   </div>
                   <div className="others-option">

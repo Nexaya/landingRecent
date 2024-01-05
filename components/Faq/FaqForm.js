@@ -117,8 +117,9 @@ const FaqForm = () => {
                           onChange={handleChange}
                           required
                         /> */}
-                          <select id="inputState" class="form-control">
-                            <option selected>Subject</option>
+                          <select id="inputState" class="form-control" placeholder="Subject">
+                            <option selected>Select A Subject</option>
+                            <option >Business Advisory</option>
                             <option>Cyber Security</option>
                             <option>Software Engineering</option>
                             <option>Digital Transformation</option>
