@@ -120,7 +120,7 @@ const FooterTwo = () => {
 									</li>
 									<li>
 										<span>Email:</span>
-										<a href="mailto:hello@pisa.com">hello@pisa.com</a>
+										<a href="mailto:hello@nexaya.com">hello@nexaya.com</a>
 									</li>
 									<li>
 										<span>Phone:</span>
