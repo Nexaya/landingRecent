@@ -20,7 +20,7 @@ const FooterThree = () => {
                  nexaya supports and develops market-leading businesses and startup companies in various industries. 
 	  	With our global team, we offer international knowledge and local insights to 
 	  	provide hands-on help for strong growth, with an emphasis on digital transformation, cyber 
-		  security, and technology strategy
+		  security, and technology strategy.
                 </p>
 
                 <ul className="social-links">
