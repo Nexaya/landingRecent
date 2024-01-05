@@ -16,7 +16,8 @@ const OurServiceArea = () => {
 						<div className="single-serve">
 							<i className="bx bxs-bank"></i>
 							<h3>Banking & FinTech</h3>
-							<p>Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse</p>
+							<p>nexaya enhances efficiency and security in financial processes through optimizing digital transactions, 
+	    						and providing robust cybersecurity measures.</p>
 						</div>
 					</div>
 
@@ -24,7 +25,8 @@ const OurServiceArea = () => {
 						<div className="single-serve">
 							<i className="bx bx-cog"></i>
 							<h3>Tech Startups</h3>
-							<p>Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse</p>
+							<p>Offering access to expert networks, technical co-founder roles, guiding them from inception 
+	    						to late-stage financing.</p>
 						</div>
 					</div>
 
@@ -32,7 +34,8 @@ const OurServiceArea = () => {
 						<div className="single-serve">
 							<i className="bx bxs-vial"></i>
 							<h3>Oil and Gas</h3>
-							<p>Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse</p>
+							<p>Leveraging technology for streamlined operations, data analytics, and predictive insights 
+							to enhance decision-making and operational efficiency.</p>
 						</div>
 					</div>
 
@@ -40,7 +43,8 @@ const OurServiceArea = () => {
 						<div className="single-serve">
 							<i className="bx bx-check-shield"></i>
 							<h3>Insurance</h3>
-							<p>Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse</p>
+							<p>Digitizing processes, implementing AI-driven risk assessment, and improving customer interactions, 
+							leading to more accurate underwriting and enhanced customer experiences.</p>
 						</div>
 					</div>
 
@@ -48,7 +52,8 @@ const OurServiceArea = () => {
 						<div className="single-serve">
 							<i className="bx bx-server"></i>
 							<h3>Public Services</h3>
-							<p>Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse</p>
+							<p>Offering digital transformation solutions, optimizing processes, 
+							improving data management, and enhancing communication to create more efficient and responsive public systems</p>
 						</div>
 					</div>
 
@@ -56,7 +61,8 @@ const OurServiceArea = () => {
 						<div className="single-serve">
 							<i className="bx bx-heart"></i>
 							<h3>Healthcare</h3>
-							<p>Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse</p>
+							<p>Digital transformation, facilitating communication between healthcare providers and patients, 
+							implementing predictive analytics for better diagnostics, and ensuring secure data management in compliance with healthcare regulations.</p>
 						</div>
 					</div>
 				</div>
