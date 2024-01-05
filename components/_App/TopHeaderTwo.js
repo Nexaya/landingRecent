@@ -15,9 +15,9 @@ const TopHeaderTwo = () => {
                                 </a>
                             </li>
                             <li>
-                                <a href="mailto:hello@pisa.com">
+                                <a href="mailto:hello@nexaya.com">
                                     <i className="bx bx-envelope"></i>
-                                    Email: hello@pisa.com
+                                    Email: hello@nexaya.com
                                 </a>
                             </li>
                         </ul>
