@@ -28,8 +28,8 @@ export default class WhyChooseUs extends Component {
             <span>Why Choose Us</span>
             <h2>We Different From Others</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Commitment to delivering high-quality services, ensuring 
+            clients receive top-notch solutions tailored to their specific needs and challenges.
             </p>
           </div>
 
@@ -43,7 +43,7 @@ export default class WhyChooseUs extends Component {
                         <div className="col-lg-6">
                           <div className="choose-us-content">
                             <div className="choose-us">
-                              <h3>Industry Experts</h3>
+                              <h3>High-Quality Service</h3>
                               <p>
                                 Lorem ipsum dolor sit amet, consectetur
                                 adipiscing elit, sed do eiusmod tempor
@@ -88,11 +88,10 @@ export default class WhyChooseUs extends Component {
                         <div className="col-lg-6">
                           <div className="choose-us-content">
                             <div className="choose-us">
-                              <h3>Dedicated Team</h3>
+                              <h3>Global Expertise</h3>
                               <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore
+                                With a wealth of global expertise a nuanced understanding of diverse markets, industries. 
+                                Providing clients with insights and solutions that transcend geographical boundaries.
                               </p>
                             </div>
                             <div className="shape-1">
@@ -133,11 +132,10 @@ export default class WhyChooseUs extends Component {
                         <div className="col-lg-6">
                           <div className="choose-us-content">
                             <div className="choose-us">
-                              <h3>Outcome Focused</h3>
+                              <h3>Dedicated Teams</h3>
                               <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore
+                                nexaya's approach involves dedicated teams with hands on the ground, committed to client success. This  ensures a deep 
+                                understanding of client goals, fostering a collaborative and responsive partnership.
                               </p>
                             </div>
                             <div className="shape-1">
@@ -178,11 +176,10 @@ export default class WhyChooseUs extends Component {
                         <div className="col-lg-6">
                           <div className="choose-us-content">
                             <div className="choose-us">
-                              <h3>High Quality Service</h3>
+                              <h3>Outcome-Focused</h3>
                               <p>
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore
+                                Nexaya goes beyond mere service provision, focusing on tangible outcomes for clients. By aligning its efforts with measurable goals 
+                                and desired results, Nexaya ensures that the value delivered is impactful and aligned with client objectives.
                               </p>
                             </div>
                             <div className="shape-1">
