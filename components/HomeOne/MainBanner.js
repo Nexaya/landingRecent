@@ -32,20 +32,6 @@ const MainBanner = () => {
                 </p>
               </div>
             </div>
-
-            <div className="col-lg-3">
-              <div className="video-btn-animat one">
-                <div
-                  onClick={(e) => {
-                    e.preventDefault();
-                    openModal();
-                  }}
-                  className="video-btn popup-youtube"
-                >
-                  <i className="bx bx-play"></i>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
 

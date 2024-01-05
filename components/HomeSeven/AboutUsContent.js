@@ -26,9 +26,10 @@ const AboutUsContent = () => {
                 tailored solutions for cyber security and managed services, we enable companies to reinvent themselves and unlock new levels of growth.
               </p>
 <div class="row justify-content-center"><div class="col-lg-6 col-md-6"><div class="safer-world-inner-box"><h4>Our Mission</h4><p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Adipisc ing eleifend dictum pot nti.</p></div></div><div class="col-lg-6 col-md-6"><div class="safer-world-inner-box"><h4>Our Mission</h4><p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Adipisc ing eleifend dictum pot nti.</p></div></div></div>
+
                 <div className="safer-world-btn">
                   <Link href="/about">
-                    <a className="default-btn">Know More About Us</a>
+                    <a className="default-btn">Know More...</a>
                   </Link>
                 </div>
               </div>
