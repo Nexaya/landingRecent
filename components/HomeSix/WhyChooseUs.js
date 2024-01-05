@@ -26,7 +26,7 @@ export default class WhyChooseUs extends Component {
         <div className="container">
           <div className="section-title-six">
             <span>Why Choose Us</span>
-            <h2>We Different From Others</h2>
+            <h2>Everybody is saying " We are different", but we really are!</h2>
             <p>
               Commitment to delivering high-quality services, ensuring 
             clients receive top-notch solutions tailored to their specific needs and challenges.
