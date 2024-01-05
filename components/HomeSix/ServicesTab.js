@@ -120,19 +120,7 @@ class ServicesTab extends Component {
                         more resilient to disruption as well as prepare it to
                         capitalize on the next phase of growth.{" "}
                       </p>
-
-                      <p>
-                        Digital transformation is no longer an option for
-                        today’s businesses. By 2022, 70% of all organizations
-                        will have accelerated the use of their digital
-                        technologies, transforming their existing processes to
-                        drive customer engagement, employee productivity, and
-                        business resiliency. But 70% of digital transformations
-                        will also fall short of their objectives, often with
-                        profound consequences.
-                      </p>
-
-                      <Link href="/about">
+                          <Link href="/about">
                         <a className="default-btn six">
                           <i className="bx bx-file"></i>
                           Learn More
