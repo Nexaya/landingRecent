@@ -147,22 +147,12 @@ class ServicesTab extends Component {
                       <h3>Cyber Security</h3>
 
                       <p>
-                        Lorem ipsum dolor, sit amet consectetur adipisicing
-                        elit. Illo ducimus vero, vero corporis voluptates beatae
-                        pariatur laudantium, fugiat illum ab deserunt nostrum
-                        aliquid quisquam esse? Voluptatibus quia velit numquam
-                        esse porro ipsum dolor, sit amet consectetur adipisicing
-                        elit. Illo ducimus vero, corporis Voluptatibus quia.
-                      </p>
-
-                      <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing
-                        elit. Perspiciatis, soluta, aspernatur dolorum sequi
-                        quisquam ullam in pariatur nihil dolorem cumque
-                        excepturi totam. Qui excepturi quasi cumque placeat
-                        fuga. Ea, eius nihil dolorem cumque
-                      </p>
-
+                        nexaya offers a proactive approach to building a tailored security program. 
+                        Our security services and solutions enable organisations to identify and address vulnerabilities, 
+                        maintain policy adherence, protect assets and data, and increase resilience. 
+                        With these solid security measures in place, you can rest assured that your critical systems 
+                        and data are safely protected from potential threats
+                      </p>                
                       <Link href="/about">
                         <a className="default-btn six">
                           <i className="bx bx-file"></i>
