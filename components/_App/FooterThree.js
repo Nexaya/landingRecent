@@ -59,11 +59,8 @@ const FooterThree = () => {
                     </Link>
                   </li>
                   <li>
-                    <a href="#">Return Policy</a>
-                  </li>
-                  <li>
                     <Link href="/terms-conditions">
-                      <a>Termas & Conditions</a>
+                      <a>Terms & Conditions</a>
                     </Link>
                   </li>
                   <li>
@@ -72,7 +69,7 @@ const FooterThree = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/about">
+                    <Link href="/careers/all">
                       <a>Careers</a>
                     </Link>
                   </li>
@@ -156,7 +153,7 @@ const FooterThree = () => {
               <div className="line"></div>
             </div>
           </div>
-		  #33971F
+		  {/* #33971F */}
         </div>
       </footer>
     </>
