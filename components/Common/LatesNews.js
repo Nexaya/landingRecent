@@ -3,11 +3,10 @@ import Link from 'next/link';
 
 const LatesNews = () => {
     return (
-        <section className="blog-area pb-70">
+        <section className="blog-area pb-70 pt-100">
 			<div className="container">
 				<div className="section-title">
-					<h2>Latest News From Blog</h2>
-					<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus quam neque quibusdam corrupti aspernatur corporis alias nisi dolorum expedita veritatis voluptates minima.</p>
+					<h2>Recent Job Openings</h2>
 				</div>
 
 				<div className="row">
