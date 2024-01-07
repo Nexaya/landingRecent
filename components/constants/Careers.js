@@ -1,6 +1,6 @@
 const AllCareers =  [
   {
-      id: "1",
+      job_id: 1,
       image:"/img/nexaya-career/jobImage2.png",
       StartDate:"01/01/2024",
       Title:"Senior Digital Marketing",
@@ -10,7 +10,7 @@ const AllCareers =  [
       ApplicationDeadline:"February 1st, 2024"
   },
   {
-      id:"2",
+      job_id:2,
       image:"/img/nexaya-career/jobImage1.png",
       StartDate:"01/01/2024",
       Title:"Senior Ui/Ux Designer",
@@ -20,7 +20,7 @@ const AllCareers =  [
       ApplicationDeadline:"February 1st, 2024"
   },
   {
-      id:"3",
+      job_id:3,
       image:"/img/nexaya-career/jobImage1.png",
       StartDate:"01/01/2024",
       Title:"Full Stack Developer",
@@ -30,7 +30,7 @@ const AllCareers =  [
       ApplicationDeadline:"February 1st, 2024"
   },
   {
-      id:"4",
+      job_id:4,
       image:"/img/nexaya-career/jobImage1.png",
       StartDate:"01/01/2024",
       Title:"Software Engineering Intern",
