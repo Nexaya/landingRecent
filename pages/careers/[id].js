@@ -1,6 +1,7 @@
 import React from 'react'
 import { useRouter } from "next/router";
 import Navbar from '../../components/_App/Navbar'
+import PageBanner from "../../components/Common/PageBanner";
 import FooterThree from '../../components/_App/FooterThree'
 import AllCareers from '../../components/constants/Careers';
 
@@ -31,6 +32,14 @@ function SingleCareer() {
   return (
     <>
     <Navbar />
+    <PageBanner
+        pageTitle="Nexaya Careers"
+        homePageUrl="/"
+        homePageText="Home"
+        activePageText="Nexaya Careers"
+        activePageUrl = {`/careers/all`}
+        SinglePageText = {`${String(Title)}`}
+      />
     <FooterThree />
    </>
   )
