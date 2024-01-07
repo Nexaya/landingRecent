@@ -24,7 +24,7 @@ const Features = () => {
 
                 <div className="col-lg-4 col-sm-6 offset-sm-3 offset-lg-0">
                     <div className="single-features mb-0">
-                        <h3><i className="bx bx-certification"></i>Local Impact, Global Expertise</h3>
+                        <h3><i className="bx bx-certification"></i>Local Impact</h3>
                         <p>nexaya's Technology and Innovation Hubs in Europe and Africa serve as vital centers. They support companies in diverse Technology areas, from Digital Transformation to Cyber Security.</p>
                         <span className="bx bx-certification"></span>
                     </div>
