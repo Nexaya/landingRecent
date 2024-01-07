@@ -113,13 +113,11 @@ class ServicesTab extends Component {
                     <div className="services-single-item">
                       <h3>Digital Transformation</h3>
 
-                      <p>
-                        Technology transforms how your organization interacts
-                        with customers and employees in amazing new ways.
-                        Whether the future tuns out uncertain or prosperous, one
-                        thing is certain: you need to make your organization
-                        more resilient to disruption as well as prepare it to
-                        capitalize on the next phase of growth.{" "}
+                      <p>We partner with both on-prem and cloud technology leaders to bring together the 
+                        integrated solutions and expertise you need to simply, securely, and responsibly 
+                        accelerate your business through digital transformation. 
+                      Combine your ideas with our innovation, skillsets and vertical knowledge, and 
+                        together we’ll achieve better outcomes faster..{" "}
                       </p>
                           <Link href="/about">
                         <a className="default-btn six">
@@ -149,10 +147,13 @@ class ServicesTab extends Component {
 
                       <p>
                         nexaya offers a proactive approach to building a tailored security program. 
-                        Our security services and solutions enable organisations to identify and address vulnerabilities, 
-                        maintain policy adherence, protect assets and data, and increase resilience. 
-                        With these solid security measures in place, you can rest assured that your critical systems 
-                        and data are safely protected from potential threats
+                          Our security services and solutions enable organisations to focus on what 
+                          matters the most first. We help you identify and address vulnerabilities better 
+                          by using an early threat warning system so risk impact is minimized; in addition 
+                          we help you build proper policy and  maintain adherence to protect your assets and 
+                          data; last but not least, increase resilience to withstand the enevitable. With these 
+                          solid security measures in place, you can rest assured that your business is at its 
+                          best shape to gain and sustain competitive advantage.
                       </p>                
                       <Link href="/about">
                         <a className="default-btn six">
