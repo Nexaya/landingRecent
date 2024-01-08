@@ -1,7 +1,7 @@
 import React from "react";
 import { useRecoilState } from "recoil";
 import { collapsedState } from "../../utils/recoil-atoms";
-import Image from 'next/image';
+import Image from "next/image";
 import Link from "../../utils/ActiveLink";
 import TopHeader from "./TopHeader";
 
@@ -33,9 +33,6 @@ const Navbar = () => {
   return (
     <>
       <header className="header-area fixed-top">
-        {/* TopHeader */}
-        <TopHeader />
-
         <div className="nav-area">
           <div id="navbar" className="navbar-area">
             <div className="main-nav">
@@ -46,12 +43,7 @@ const Navbar = () => {
                       onClick={() => setCollapsed(true)}
                       className="navbar-brand"
                     >
-                        <Image
-                         src={"/img/logo.png"}
-                         width={180}
-                         height={30}
-                        />
-                     
+                      <Image src={"/img/logo.png"} width={180} height={30} />
                     </a>
                   </Link>
 

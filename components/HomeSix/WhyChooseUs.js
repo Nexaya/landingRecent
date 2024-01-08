@@ -26,10 +26,13 @@ export default class WhyChooseUs extends Component {
         <div className="container">
           <div className="section-title-six">
             <span>Why Choose Us</span>
-            <h2>Everybody is saying " We are different", but we really are!</h2>
+            <h2>
+              Everybody is saying, " We are different", but we really are!
+            </h2>
             <p>
-              Commitment to delivering high-quality services, ensuring 
-            clients receive top-notch services and solutions tailored to their specific needs and challenges.
+              Commitment to delivering high-quality services, ensuring clients
+              receive top-notch services and solutions tailored to their
+              specific needs and challenges.
             </p>
           </div>
 
@@ -41,12 +44,28 @@ export default class WhyChooseUs extends Component {
                     <div id="wcu_tab1" className="wcu_tabs_item">
                       <div className="row align-items-center">
                         <div className="col-lg-6">
+                          <div className="choose-us-img">
+                            <img
+                              src="/img/home-six/choose-us/choose-1.jpg"
+                              alt="Image"
+                            />
+
+                            <div className="shape-2">
+                              <img
+                                src="/img/home-six/choose-us/shape-2.png"
+                                alt="Image"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                        <div className="col-lg-6">
                           <div className="choose-us-content">
                             <div className="choose-us">
                               <h3>High-Quality Service</h3>
                               <p>
-                               Committed to delivering high-quality services, ensuring 
-                            clients receive top-notch solutions tailored to their specific needs and challenges.
+                                Committed to delivering high-quality services,
+                                ensuring clients receive top-notch solutions
+                                tailored to their specific needs and challenges.
                               </p>
                             </div>
                             <div className="shape-1">
@@ -58,22 +77,6 @@ export default class WhyChooseUs extends Component {
                             <div className="shape-3">
                               <img
                                 src="/img/home-six/choose-us/shape-3.png"
-                                alt="Image"
-                              />
-                            </div>
-                          </div>
-                        </div>
-
-                        <div className="col-lg-6">
-                          <div className="choose-us-img">
-                            <img
-                              src="/img/home-six/choose-us/choose-1.jpg"
-                              alt="Image"
-                            />
-
-                            <div className="shape-2">
-                              <img
-                                src="/img/home-six/choose-us/shape-2.png"
                                 alt="Image"
                               />
                             </div>
@@ -85,12 +88,28 @@ export default class WhyChooseUs extends Component {
                     <div id="wcu_tab2" className="wcu_tabs_item">
                       <div className="row align-items-center">
                         <div className="col-lg-6">
+                          <div className="choose-us-img">
+                            <img
+                              src="/img/home-six/choose-us/choose-2.jpg"
+                              alt="Image"
+                            />
+                            <div className="shape-2">
+                              <img
+                                src="/img/home-six/choose-us/shape-2.png"
+                                alt="Image"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                        <div className="col-lg-6">
                           <div className="choose-us-content">
                             <div className="choose-us">
                               <h3>Global Expertise</h3>
                               <p>
-                                With a wealth of global expertise a nuanced understanding of diverse markets, industries. 
-                                Providing clients with insights and solutions that transcend geographical boundaries.
+                                With a wealth of global expertise a nuanced
+                                understanding of diverse markets, industries.
+                                Providing clients with insights and solutions
+                                that transcend geographical boundaries.
                               </p>
                             </div>
                             <div className="shape-1">
@@ -107,14 +126,16 @@ export default class WhyChooseUs extends Component {
                             </div>
                           </div>
                         </div>
-
+                      </div>
+                    </div>
+                    <div id="wcu_tab3" className="wcu_tabs_item">
+                      <div className="row align-items-center">
                         <div className="col-lg-6">
                           <div className="choose-us-img">
                             <img
-                              src="/img/home-six/choose-us/choose-1.jpg"
+                              src="/img/home-six/choose-us/choose-3.jpg"
                               alt="Image"
                             />
-
                             <div className="shape-2">
                               <img
                                 src="/img/home-six/choose-us/shape-2.png"
@@ -123,18 +144,16 @@ export default class WhyChooseUs extends Component {
                             </div>
                           </div>
                         </div>
-                      </div>
-                    </div>
-
-                    <div id="wcu_tab3" className="wcu_tabs_item">
-                      <div className="row align-items-center">
                         <div className="col-lg-6">
                           <div className="choose-us-content">
                             <div className="choose-us">
                               <h3>Dedicated Teams</h3>
                               <p>
-                                nexaya's approach involves dedicated teams with hands on the ground, committed to client success. This  ensures a deep 
-                                understanding of client goals, fostering a collaborative and responsive partnership.
+                                nexaya's approach involves dedicated teams with
+                                hands on the ground, committed to client
+                                success. This ensures a deep understanding of
+                                client goals, fostering a collaborative and
+                                responsive partnership.
                               </p>
                             </div>
                             <div className="shape-1">
@@ -151,11 +170,14 @@ export default class WhyChooseUs extends Component {
                             </div>
                           </div>
                         </div>
-
+                      </div>
+                    </div>
+                    <div id="wcu_tab4" className="wcu_tabs_item">
+                      <div className="row align-items-center">
                         <div className="col-lg-6">
                           <div className="choose-us-img">
                             <img
-                              src="/img/home-six/choose-us/choose-1.jpg"
+                              src="/img/home-six/choose-us/choose-4.jpg"
                               alt="Image"
                             />
 
@@ -167,18 +189,17 @@ export default class WhyChooseUs extends Component {
                             </div>
                           </div>
                         </div>
-                      </div>
-                    </div>
-
-                    <div id="wcu_tab4" className="wcu_tabs_item">
-                      <div className="row align-items-center">
                         <div className="col-lg-6">
                           <div className="choose-us-content">
                             <div className="choose-us">
                               <h3>Outcome-Focused</h3>
                               <p>
-                                Nexaya goes beyond mere service provision, focusing on tangible outcomes for clients. By aligning its efforts with measurable goals 
-                                and desired results, Nexaya ensures that the value delivered is impactful and aligned with client objectives.
+                                Nexaya goes beyond mere service provision,
+                                focusing on tangible outcomes for clients. By
+                                aligning its efforts with measurable goals and
+                                desired results, Nexaya ensures that the value
+                                delivered is impactful and aligned with client
+                                objectives.
                               </p>
                             </div>
                             <div className="shape-1">
@@ -190,22 +211,6 @@ export default class WhyChooseUs extends Component {
                             <div className="shape-3">
                               <img
                                 src="/img/home-six/choose-us/shape-3.png"
-                                alt="Image"
-                              />
-                            </div>
-                          </div>
-                        </div>
-
-                        <div className="col-lg-6">
-                          <div className="choose-us-img">
-                            <img
-                              src="/img/home-six/choose-us/choose-1.jpg"
-                              alt="Image"
-                            />
-
-                            <div className="shape-2">
-                              <img
-                                src="/img/home-six/choose-us/shape-2.png"
                                 alt="Image"
                               />
                             </div>
@@ -213,17 +218,34 @@ export default class WhyChooseUs extends Component {
                         </div>
                       </div>
                     </div>
-
                     <div id="wcu_tab5" className="wcu_tabs_item">
                       <div className="row align-items-center">
+                        <div className="col-lg-6">
+                          <div className="choose-us-img">
+                            <img
+                              src="/img/home-six/choose-us/choose-5.jpg"
+                              alt="Image"
+                              className=""
+                            />
+
+                            <div className="shape-2">
+                              <img
+                                src="/img/home-six/choose-us/shape-2.png"
+                                alt="Image"
+                              />
+                            </div>
+                          </div>
+                        </div>
                         <div className="col-lg-6">
                           <div className="choose-us-content">
                             <div className="choose-us">
                               <h3>Innovation Paired with Technology & Funds</h3>
                               <p>
-                                nexaya innovates by merging leading-edge technology with strategic 
-                                innovation and financial support, ensuring startups and other businesses 
-                                access the latest advancements and resources for transformative solutions
+                                nexaya innovates by merging leading-edge
+                                technology with strategic innovation and
+                                financial support, ensuring startups and other
+                                businesses access the latest advancements and
+                                resources for transformative solutions
                               </p>
                             </div>
                             <div className="shape-1">
@@ -235,22 +257,6 @@ export default class WhyChooseUs extends Component {
                             <div className="shape-3">
                               <img
                                 src="/img/home-six/choose-us/shape-3.png"
-                                alt="Image"
-                              />
-                            </div>
-                          </div>
-                        </div>
-
-                        <div className="col-lg-6">
-                          <div className="choose-us-img">
-                            <img
-                              src="/img/home-six/choose-us/choose-1.jpg"
-                              alt="Image"
-                            />
-
-                            <div className="shape-2">
-                              <img
-                                src="/img/home-six/choose-us/shape-2.png"
                                 alt="Image"
                               />
                             </div>
@@ -260,7 +266,6 @@ export default class WhyChooseUs extends Component {
                     </div>
                   </div>
                 </div>
-
                 <div className="col-lg-3">
                   <ul className="tabs">
                     <li
