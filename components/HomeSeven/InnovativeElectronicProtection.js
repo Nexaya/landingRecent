@@ -31,14 +31,14 @@ const InnovativeElectronicProtection = () => {
                                             <div className="row justify-content-center">
                                                 <div className="col-lg-6 col-md-6">
                                                     <ul className="list">
-                                                        <li><i className='bx bx-check'></i> Focus on The Basics</li>
-                                                        <li><i className='bx bx-check'></i> Educate Customers</li>
+                                                        <li><i className='bx bx-check'></i>Connectivity</li>
+                                                        <li><i className='bx bx-check'></i> Global Impact</li>
                                                     </ul>
                                                 </div>
                                                 <div className="col-lg-6 col-md-6">
                                                     <ul className="list">
-                                                        <li><i className='bx bx-check'></i> Be Proactive</li>
-                                                        <li><i className='bx bx-check'></i> Tighten Internal Controls</li>
+                                                        <li><i className='bx bx-check'></i> Innovation Hub</li>
+                                                        <li><i className='bx bx-check'></i> Technological Advancement</li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -52,14 +52,14 @@ const InnovativeElectronicProtection = () => {
                                             <div className="row justify-content-center">
                                                 <div className="col-lg-6 col-md-6">
                                                     <ul className="list">
-                                                        <li><i className='bx bx-check'></i> Focus on The Basics</li>
-                                                        <li><i className='bx bx-check'></i> Educate Customers</li>
+                                                        <li><i className='bx bx-check'></i> Connectivity</li>
+                                                        <li><i className='bx bx-check'></i> Global Impact</li>
                                                     </ul>
                                                 </div>
                                                 <div className="col-lg-6 col-md-6">
                                                     <ul className="list">
-                                                        <li><i className='bx bx-check'></i> Be Proactive</li>
-                                                        <li><i className='bx bx-check'></i> Tighten Internal Controls</li>
+                                                        <li><i className='bx bx-check'></i> Innovation Hub</li>
+                                                        <li><i className='bx bx-check'></i> Technological Advancement</li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -73,14 +73,14 @@ const InnovativeElectronicProtection = () => {
                                             <div className="row justify-content-center">
                                                 <div className="col-lg-6 col-md-6">
                                                     <ul className="list">
-                                                        <li><i className='bx bx-check'></i> Focus on The Basics</li>
-                                                        <li><i className='bx bx-check'></i> Educate Customers</li>
+                                                        <li><i className='bx bx-check'></i> Empowerment</li>
+                                                        <li><i className='bx bx-check'></i> Collaboration</li>
                                                     </ul>
                                                 </div>
                                                 <div className="col-lg-6 col-md-6">
                                                     <ul className="list">
-                                                        <li><i className='bx bx-check'></i> Be Proactive</li>
-                                                        <li><i className='bx bx-check'></i> Tighten Internal Controls</li>
+                                                        <li><i className='bx bx-check'></i> Excellence</li>
+                                                        <li><i className='bx bx-check'></i> Transformative Solutions</li>
                                                     </ul>
                                                 </div>
                                             </div>
