@@ -10,7 +10,7 @@ const InnovativeElectronicProtection = () => {
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">
                             <div className="home-control-content">
-                                <h3>We're more than tech enthusiasts; we're co-creators of positive change.</h3>
+                                <h3>We're more than tech enthusiasts; we're co-creators of positive change</h3>
                                 <p>Most people stuck in their routines and dont like or accept changes. We at nexaya believe that change is not merely a 
                                     disruption but much more a gateway and a chance to evolve, adapt and thrive in our ever growing and changing digital worldto new opportunities and growth
                                 </p>
@@ -25,7 +25,9 @@ const InnovativeElectronicProtection = () => {
                                         </TabList>
 
                                         <TabPanel>
-                                            <p>Lorem ipsum dolor sit amet consecte adipi scing elit. Adipiscing eleifend poteder mattis viverra lorem ipsum dolor sit amet consecte adipisci ng elit adipiscingdiper eleifend dictum potenti mattis viverra.</p>
+                                            <p>Commited to innovation and creativity, focusing on a client-centric model that tailors solutions to individual needs. We actively engage in collaborative co-creation, 
+                                            leveraging cross-continental expertise to offer diverse perspectives and insights. We emphasising tech excellence, agility, and adaptability, forming strategic partnerships and networks 
+                                        in Europe, MENA and Africa to drive growth and staying at the forefront of industry trends.</p>
                                             <div className="row justify-content-center">
                                                 <div className="col-lg-6 col-md-6">
                                                     <ul className="list">
