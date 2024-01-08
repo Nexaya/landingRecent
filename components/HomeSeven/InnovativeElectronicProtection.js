@@ -10,17 +10,18 @@ const InnovativeElectronicProtection = () => {
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">
                             <div className="home-control-content">
-                                <h3>Innovative Electronic Protection Of Your Office And Home Control</h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit adipiscing eleifend dictum potenti mattis viverra eget quam lacus enim porttitor bibendum elit dui nisl.</p>
+                                <h3>We're more than tech enthusiasts; we're co-creators of positive change.</h3>
+                                <p>Most people stuck in their routines and dont like or accept changes. We at nexaya believe that change is not merely a 
+                                    disruption but much more a gateway and a chance to evolve, adapt and thrive in our ever growing and changing digital worldto new opportunities and growth
+                                </p>
 
                                 <div className="home-control-tab-wrap">
                                     <Tabs>
                                         <TabList>
-                                            <Tab>Intercom System</Tab>
-                                            <Tab>CCTV</Tab>
-                                            <Tab>GDPR</Tab>
-                                            <Tab>Encryption</Tab>
-                                            <Tab>Our Goal</Tab>
+                                            <Tab>Our approach</Tab>
+                                            <Tab>Mission</Tab>
+                                            <Tab>Vission</Tab>
+                                            <Tab>We Partner</Tab>
                                         </TabList>
 
                                         <TabPanel>
