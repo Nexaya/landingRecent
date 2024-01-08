@@ -42,13 +42,12 @@ const InnovativeElectronicProtection = () => {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <Link href="/about">
-                                                <a className="default-btn">Learn About</a>
-                                            </Link>
+                                         
                                         </TabPanel>
 
                                         <TabPanel>
-                                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                            <p>"Empowering young professionals and boost businesses to foster technological advancement by bridging the gap between Europe and Africa. Delivering outstanding solutions in digital 
+                                            transformation, cybersecurity, and innovation, creating a global impact through collaboration, creativity, and technology & excellence."</p>
 
                                             <div className="row justify-content-center">
                                                 <div className="col-lg-6 col-md-6">
@@ -64,13 +63,13 @@ const InnovativeElectronicProtection = () => {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <Link href="/about">
-                                                <a className="default-btn">Learn About</a>
-                                            </Link>
+                                           
                                         </TabPanel>
 
                                         <TabPanel>
-                                            <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer.</p>
+                                            <p>"To be a leading force in the technology & innovation ecosystem, driving positive change. We envisions a connected world where the exchange of knowledge and expertise 
+                                            between continents leads to local impact and business growth. Our vision is to be the go-to partner for all companies seeking transformative solutions, while actively contributing 
+                                        to the development of a vibrant and inclusive digital future."</p>
                                             <div className="row justify-content-center">
                                                 <div className="col-lg-6 col-md-6">
                                                     <ul className="list">
@@ -85,13 +84,11 @@ const InnovativeElectronicProtection = () => {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <Link href="/about">
-                                                <a className="default-btn">Learn About</a>
-                                            </Link>
+                                         
                                         </TabPanel>
 
                                         <TabPanel>
-                                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
+                                            <p>.</p>
                                             <div className="row justify-content-center">
                                                 <div className="col-lg-6 col-md-6">
                                                     <ul className="list">
@@ -106,9 +103,7 @@ const InnovativeElectronicProtection = () => {
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <Link href="/about">
-                                                <a className="default-btn">Learn About</a>
-                                            </Link>
+                                          
                                         </TabPanel>
 
                                         <TabPanel>
