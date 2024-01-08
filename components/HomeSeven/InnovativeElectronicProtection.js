@@ -31,14 +31,14 @@ const InnovativeElectronicProtection = () => {
                                             <div className="row justify-content-center">
                                                 <div className="col-lg-6 col-md-6">
                                                     <ul className="list">
-                                                        <li><i className='bx bx-check'></i>Connectivity</li>
-                                                        <li><i className='bx bx-check'></i> Global Impact</li>
+                                                        <li><i className='bx bx-check'></i>Agile</li>
+                                                        <li><i className='bx bx-check'></i> Client-Centric Impact</li>
                                                     </ul>
                                                 </div>
                                                 <div className="col-lg-6 col-md-6">
                                                     <ul className="list">
-                                                        <li><i className='bx bx-check'></i> Innovation Hub</li>
-                                                        <li><i className='bx bx-check'></i> Technological Advancement</li>
+                                                        <li><i className='bx bx-check'></i> Collaborative Co-Creation</li>
+                                                        <li><i className='bx bx-check'></i> Cross-Continental Excellence</li>
                                                     </ul>
                                                 </div>
                                             </div>
