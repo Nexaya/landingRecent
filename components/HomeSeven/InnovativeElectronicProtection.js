@@ -107,7 +107,20 @@ const InnovativeElectronicProtection = () => {
                                         </TabPanel>
 
                                         <TabPanel>
-                                            <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee.</p>
+                                            <p>At nexaya we can your strategic partner of three types:<br></p>
+                                            <p>Technology Partner:
+                                            nexaya serves as the primary point of contact for companies and especially startups, offering comprehensive support 
+                                            in all IT-related matters. Including infrastructure maintenance, Application & Desktop Support, software engineering, vendor management, and cybersecurity.</p>
+
+                                           <p>Technical Co-Founder:
+                                            nexaya collaborates with startups, actively participating in building and managing ventures across all technological aspects. This commitment ensures the realization 
+                                            of business objectives, providing startups with the technical expertise and access to industry and technology experts needed for success.</p>
+
+                                            <p>Technical Investment Advisor:
+                                                Supporting Angel Investors and Venture Capital firms in assessing technology investments. This involves providing insights for informed investment decisions before 
+                                                acquisition. Additionally, nexaya extends support to portfolio startups, ensuring the proper utilization of investments for scaling technology solutions and building 
+                                                and scaling organizational operations and structures.</p>
+                                            
                                             <div className="row justify-content-center">
                                                 <div className="col-lg-6 col-md-6">
                                                     <ul className="list">
