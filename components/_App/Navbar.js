@@ -88,7 +88,7 @@ const Navbar = () => {
                       </li>
 
                       <li className="nav-item">
-                        <Link href="/services-three" activeClassName="active">
+                        <Link href="/services/all" activeClassName="active">
                           <a className="nav-link">Services</a>
                         </Link>
                       </li>

@@ -3,31 +3,25 @@ import { useRouter } from "next/router";
 import Navbar from "../../components/_App/Navbar";
 import PageBanner from "../../components/Common/PageBanner";
 import FooterThree from "../../components/_App/FooterThree";
-import AllCareers from "../../constants/Careers/Careers";
+import Services from "../../constants/Services/AllServices";
 import CareerDetails from "../../components/Careers/CareerDetails";
-import NoOpening from "../../constants/Careers/NoOpeningObject";
 
 function SingleCareer() {
   const router = useRouter();
-  let { job_id } = router.query;
-  // search for job using id
-  AllCareers.map((data) => {
-    if (String(data.job_id) === String(job_id)) {
-    }
-  });
+  let { service_id } = router.query;
   return (
     <>
       <Navbar />
-      {AllCareers.map((data) => {
-        if (String(data.job_id) === String(job_id)) {
+      {Services.map((data) => {
+        if (String(data.service_id) === String(service_id)) {
           return (
             <>
               <PageBanner
-                pageTitle="Nexaya Careers"
+                pageTitle="Nexaya Services"
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText="Nexaya Careers"
-                activePageUrl={`/careers/all`}
+                activePageText="Nexaya Services"
+                activePageUrl={`/services/all`}
                 SinglePageText={`${data.Title}`}
               />
               <CareerDetails Title={`${data.Title}`} />
