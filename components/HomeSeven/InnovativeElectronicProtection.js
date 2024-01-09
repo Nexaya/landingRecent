@@ -107,7 +107,7 @@ const InnovativeElectronicProtection = () => {
                                         </TabPanel>
 
                                         <TabPanel>
-                                            <p>At nexaya we can your strategic partner of three types:<br></p>
+                                            <p>At nexaya we can your strategic partner of three types:<br/></p>
                                             <p>Technology Partner:
                                             nexaya serves as the primary point of contact for companies and especially startups, offering comprehensive support 
                                             in all IT-related matters. Including infrastructure maintenance, Application & Desktop Support, software engineering, vendor management, and cybersecurity.</p>
