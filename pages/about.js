@@ -5,6 +5,7 @@ import ElectronicProtection from "../components/HomeOne/ElectronicProtection";
 import SecurityApproach from "../components/HomeOne/SecurityApproach";
 import FooterThree from "../components/_App/FooterThree";
 import DigitalWorkflow from "../components/HomeFive/DigitalWorkflow";
+import InnovativeElectronicProtection from "../components/HomeSeven/InnovativeElectronicProtection";
 
 const About = () => {
   return (
@@ -16,9 +17,7 @@ const About = () => {
         homePageText="Home"
         activePageText="About"
       />
-      <div className="pt-100">
-        <DigitalWorkflow />
-      </div>
+     <InnovativeElectronicProtection />
       <ElectronicProtection />
       <div className="pt-100">
         <SecurityApproach />
