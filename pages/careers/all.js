@@ -3,7 +3,7 @@ import Navbar from "../../components/_App/Navbar";
 import FooterThree from "../../components/_App/FooterThree";
 import PageBanner from "../../components/Common/PageBanner";
 import CareerCrumb from "../../components/Careers/Career";
-import AllCareers from "../../components/constants/Careers";
+import AllCareers from "../../constants/Careers/Careers";
 
 function Careers() {
   return (
@@ -16,7 +16,6 @@ function Careers() {
         activePageText="Nexaya Careers"
       />
       <div className="section-title pt-100">
-        <h2>Recent Job Openings</h2>
         {AllCareers.map((data) => (
           <CareerCrumb
             key={data.job_id}

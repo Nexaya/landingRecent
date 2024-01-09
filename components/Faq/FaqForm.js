@@ -4,6 +4,7 @@ import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
 const MySwal = withReactContent(Swal);
 import baseUrl from "../../utils/baseUrl";
+import SendMail from "../../utils/sendMail";
 
 const alertContent = () => {
   MySwal.fire({
@@ -36,10 +37,12 @@ const FaqForm = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    console.log(contact);
     try {
       const url = `${baseUrl}/api/contact`;
       const { name, email, number, subject, text } = contact;
       const payload = { name, email, number, subject, text };
+      SendMail(email, name, subject, text );
       const response = await axios.post(url, payload);
       console.log(response);
       setContact(INITIAL_STATE);
@@ -57,12 +60,7 @@ const FaqForm = () => {
             <div className="contact-wrap">
               <div className="contact-form">
                 <div className="section-title">
-                  <h2>Ask Questions</h2>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Impedit, libero harum cum numquam repellendus autem
-                    recusandae voluptatem, asperiores iusto magni reprehenderit
-                  </p>
+                  <h2>Contact Us</h2>
                 </div>
 
                 <form onSubmit={handleSubmit}>
@@ -117,15 +115,19 @@ const FaqForm = () => {
                           onChange={handleChange}
                           required
                         /> */}
-                          <select id="inputState" class="form-control" placeholder="Subject">
-                            <option selected>Select A Subject</option>
-                            <option >Business Advisory</option>
-                            <option>Cyber Security</option>
-                            <option>Software Engineering</option>
-                            <option>Digital Transformation</option>
-                            <option>Careers</option>
-                          </select>
-                        
+
+                        <select
+                          id="inputState"
+                          className="form-control"
+                          placeholder="Subject"
+                        >
+                          <option selected>Select A Subject</option>
+                          <option>Business Advisory</option>
+                          <option>Cyber Security</option>
+                          <option>Software Engineering</option>
+                          <option>Digital Transformation</option>
+                          <option>Careers</option>
+                        </select>
                       </div>
                     </div>
                     <div className="col-lg-12 col-md-12">

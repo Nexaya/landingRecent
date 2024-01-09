@@ -608,6 +608,7 @@ Nav Area Style
 
 .nav-area .others-option .get-quote .default-btn {
   padding: 12px 20px;
+  border-radius: 2rem;
 }
 
 .nav-area .others-option .burger-menu {
@@ -7940,9 +7941,9 @@ Services Area Style
   display: -ms-flexbox;
   display: flex;
   border-radius: 50%;
-  margin-right: -30px;
+  margin-left: 0;
   position: relative;
-  right: -60px;
+  right: -30px;
 }
 
 .choose-us-content .choose-us {
@@ -7959,7 +7960,7 @@ Services Area Style
 .choose-us-content .shape-1 {
   position: absolute;
   top: -50px;
-  right: 60px;
+  right: 40px;
   -webkit-animation: rotation 100s infinite linear;
           animation: rotation 100s infinite linear;
 }
@@ -7974,7 +7975,7 @@ Services Area Style
 
 .choose-us-img {
   position: relative;
-  left: -60px;
+  right: -100px;
   z-index: -1;
 }
 
